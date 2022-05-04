@@ -189,6 +189,33 @@
         "hungry"
       ],
       "id": "19"
+    },
+    {
+      "name": "Larry",
+      "species": "Lemur",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "20"
+    },
+    {
+      "name": "Bobby",
+      "species": "Gorilla",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "21"
+    },
+    {
+      "name": "Ray",
+      "species": "Lobster",
+      "diet": "folivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "22"
     }
   ]
 }
